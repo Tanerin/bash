@@ -1,2 +1,2 @@
-# bash
-Aqui se guardan los scripts de bash
+# Bash
+En este repositorio se guardan los scripts desarrollados en shell
