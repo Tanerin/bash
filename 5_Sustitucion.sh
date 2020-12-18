@@ -1,5 +1,5 @@
 # !bin/bash
-# Operadores
+# Comandos
 
 UbicacionActual=`pwd`
 infokernel=$(uname -a)
