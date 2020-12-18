@@ -8,3 +8,5 @@ export nombre
 numero1=14
 numero2=15
 echo "Numero1: $numero1 Numero2:: $numero2"
+arregloN=(2 3 4)
+echo"arreglo: $arregloN"
