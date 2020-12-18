@@ -2,11 +2,7 @@
 # Read y echo
 opcion=0
 backupname=""
-echo "Programa Utilidades: "
-echo -n "Ingresar una opcion: "
-read 
-opcion=$REPLY
-echo -n "Ingresar el nombre del backup:"
-read 
-backupname=$REPLY
-echo "Opcion: $opcion Nombre del backup: $backupname"
+echo "Programa para probar read"
+read -p "Ingresar una opcion: " opcion
+read -p "Ingresar el nombre del backup: " backupname
+echo "Opcion: $opcion , backupName: $backupname"
